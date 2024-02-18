@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak Sharma.
 - 👀 I’m interested in Frontend Developement.
-- 🌱 I’m currently learning Full Stack Java Developer Technology.
+- 🌱 I Have Completed Full Stack Java Developer Technology.
 - 💞️ I’m looking to collaborate on Frontend development.
 - 📫 How to reach me Deepak1702sharma@gmail.com
 
